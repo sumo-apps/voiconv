@@ -195,7 +195,7 @@ TEN::MemBuffer *Surface::saveTgaToMemory()
 TEN::MemBuffer *Surface::saveQoiToMemory()
 {
     int len;
-    qoi_desc desc = qoi_desc{
+    qoi_desc desc = (qoi_desc){
         .width = (unsigned int)width,
         .height = (unsigned int)height,
         .channels = channels,
