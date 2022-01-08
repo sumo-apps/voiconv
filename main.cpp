@@ -7,6 +7,7 @@ int main( int argc, char **arg) {
     printf("*** Voi/Qoi converter. (c) Sumo Ltd. 2022\n");
     if (argc<3) {
         printf("Usage: sourceimage targetimage.[qoi,voi,png]\n");
+        return 0;
     }
     char *sourceFile = arg[1];
     char *targetFile = arg[2];
