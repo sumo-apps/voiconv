@@ -5,6 +5,7 @@
 #include <stdint.h>
 #include <string.h>
 #include <memory>
+#include <cstdlib>
 #include "LzmaEnc.h"
 #include "LzmaDec.h"
 
