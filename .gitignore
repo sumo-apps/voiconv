@@ -1,0 +1,6 @@
+.idea
+*.voi
+*.png
+*.o
+TERM_PROGRAM=*
+voiconv
