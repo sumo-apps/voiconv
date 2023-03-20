@@ -35,15 +35,10 @@ Example: Convert voi to png
 ```
 
 Some test results:
-| File 					| ORIGINAL (png) 	| QOI		| VOI		| stb_image_png |
-| -------------------------------	| --------------------	| -------------	| -----------	| ----------- 	|
-| png-clipart-minecraft-minecraft.png	| 22.1kB		| 97.7kB	| 20.0kB	| 70.5kB	|
-| bellard2.png				| 41.4kB		| 68.3kB	| 36.6kB	| 63.2kB	|
-| Beer-PNG-10.png			| 285.8kB		| 370.3kB	| 131.1kB	| 339.4kB	|
+| File  | File name			            | Orignal (png)	        | QOI	        	| VOI		      | stb_image_png |
+| ----- | -------------------------	| --------------------	| -------------	| -----------	| ------------- |
+| <img src="https://user-images.githubusercontent.com/24604650/226320657-443c9e4e-f1c2-407b-810c-7411ab38187d.png" width="64" height="64"> | [png-clipart-minecraft-minecraft.png](https://user-images.githubusercontent.com/24604650/226320657-443c9e4e-f1c2-407b-810c-7411ab38187d.png) 	| 22.1kB		| 97.7kB	| 20.0kB	| 70.5kB	|
+| <img src="https://user-images.githubusercontent.com/24604650/226320646-482947a7-9a0b-4def-a288-ec5a381aa4c1.png" width="64" height="64"> | [bellard2.png](https://user-images.githubusercontent.com/24604650/226320646-482947a7-9a0b-4def-a288-ec5a381aa4c1.png) 				| 41.4kB		| 68.3kB	| 36.6kB	| 63.2kB	|
+| <img src="https://user-images.githubusercontent.com/24604650/226320633-ae4b943a-635d-4f27-b131-ca9740aa1413.png" width="64" height="64"> | [Beer-PNG-10.png](https://user-images.githubusercontent.com/24604650/226320633-ae4b943a-635d-4f27-b131-ca9740aa1413.png)		| 285.8kB		| 370.3kB	| 131.1kB	| 339.4kB	|
 
-Beer-PNG-10.png
-![Beer-PNG-10](https://user-images.githubusercontent.com/24604650/226320633-ae4b943a-635d-4f27-b131-ca9740aa1413.png)
-bellard2.png
-![bellard2](https://user-images.githubusercontent.com/24604650/226320646-482947a7-9a0b-4def-a288-ec5a381aa4c1.png)
-png-clipart-minecraft-minecraft.png
-![png-clipart-minecraft-minecraft](https://user-images.githubusercontent.com/24604650/226320657-443c9e4e-f1c2-407b-810c-7411ab38187d.png)
+
