@@ -33,6 +33,10 @@ Example: Convert voi to png
 ```sh
 ./voiconv foobar.voi foobar.png
 ```
+![Beer-PNG-10](https://user-images.githubusercontent.com/24604650/226320633-ae4b943a-635d-4f27-b131-ca9740aa1413.png)
+![bellard2](https://user-images.githubusercontent.com/24604650/226320646-482947a7-9a0b-4def-a288-ec5a381aa4c1.png)
+![png-clipart-minecraft-minecraft](https://user-images.githubusercontent.com/24604650/226320657-443c9e4e-f1c2-407b-810c-7411ab38187d.png)
+
 
 Some test results:
 | File 					| ORIGINAL (png) 	| QOI		| VOI		| stb_image_png |
