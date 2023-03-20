@@ -11,6 +11,7 @@ Resulted image's are most of the time much smaller than png's at least when usin
 
 
 Credits to original qoi repository: [phoboslab/qoi](https://github.com/phoboslab/qoi)
+and to Igor Pavlov's LZMA: [7ZIP SDK](https://7-zip.org/sdk.html)
 
 
 Compile (requires Make)
