@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <cstring>
 #include "surface.h"
 
 #define STR_ENDS_WITH(S, E) (strcmp(S + strlen(S) - (sizeof(E) - 1), E) == 0)
